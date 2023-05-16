@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakshitha R</h1>
-<h3 align="center">A passionate cs undergraduate</h3>
+<h3 align="center">A Passionate CS Undergraduate Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitharathnakar&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitharathnakar" /> </p>
 
-- 🌱 I’m currently learning **c,c++,java,python**
+- 🌱 I’m currently learning **C, C++, Java, Python**
 
-- 💬 Ask me about **c,java,html,css**
+- 💬 Ask me about **C, Java, HTML, CSS**
 
 - 📫 How to reach me **rakshitharathnakar2512@gmail.com**
 
