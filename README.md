@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitharathnakar&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitharathnakar" /> </p>
 
-- 🌱 I’m currently learning **C, C++, Java, Python**
+- 🌱 I’m currently learning **C, Java, DBMS , SQL**
 
-- 💬 Ask me about **C, Java, HTML, CSS**
+- 💬 Ask me about **C, Java, HTML, CSS, SQL, DBMS**
 
 - 📫 How to reach me **rakshitharathnakar2512@gmail.com**
 
