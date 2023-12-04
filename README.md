@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **C, Java, HTML, CSS, SQL, DBMS**
 
+- Student at "ALVA'S INSTITUTE OF ENGINEERING AND TECHNOLOGY"
+
 - 📫 How to reach me **rakshitharathnakar2512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
